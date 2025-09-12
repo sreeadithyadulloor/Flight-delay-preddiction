@@ -24,7 +24,6 @@ Built end-to-end pipeline from **data preprocessing → model training → visua
 
 ## 📂 Repository Contents
 - `Final_Code.ipynb` → Full code & ML pipeline   
-- `tableau/projectfinal.twb` → Tableau workbook with interactive visuals  
 
 ---
 
